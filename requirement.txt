@@ -1,0 +1,13 @@
+Flask==1.1.1
+gunicorn==19.9.0
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+nltk
+json
+re
+numpy
+sumy
+spacy
+textblob
