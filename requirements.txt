@@ -4,9 +4,8 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
-nltk
-re
-numpy
-sumy
-spacy
-textblob
+nltk==3.5
+numpy>=1.19.0
+sumy==0.8.1
+spacy==2.3.0
+textblob==0.15.3
